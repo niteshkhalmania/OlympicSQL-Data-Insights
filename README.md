@@ -12,7 +12,6 @@ To ensure the integrity and quality of the data, we employed Python coupled with
 
 - **Analyzing Data using SQL.sql**: This file contains SQL queries that dissect the Olympic data, uncovering patterns, insights, and interesting facts about the games and participants.
 - **README.md**: A descriptive file providing an overview of the project, its structure, and its contents.
-- **db.py**: Python script responsible for database-related operations, like connecting to the database, executing SQL queries, and handling data retrieval or insertion.
 - **noc_regions.py**: A script that focuses on operations related to the `noc_region.csv` dataset, including cleaning and preprocessing tasks.
 - **olympics_history.py**: This script is dedicated to processing the `dataset_olympics.csv` file, involving tasks like data cleaning, transformation, and any other required preprocessing.
 - **olympics_history_Table.sql**: Contains the SQL commands to create the table structure for the `dataset_olympics.csv` in the database.
